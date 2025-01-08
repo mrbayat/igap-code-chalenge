@@ -117,7 +117,7 @@ npm run test
 
 ## Folder Structure
 
-The project follows Onion Architecture, and the folder structure is designed to ensure the separation of concerns. Here's a breakdown of the folder structure:
+The project follows **Onion Architecture**, and the folder structure is designed to ensure the separation of concerns. Here's a breakdown of the folder structure:
 
 
 ```sh
