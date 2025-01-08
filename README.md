@@ -87,7 +87,7 @@ This command will start the server with hot-reloading on http://localhost:4000.
 
 ## API Documentation
 
-The API documentation is generated using Swagger and is accessible once the application is running. Visit the following URL to view the API documentation:
+The API documentation is generated using **Swagger** and is accessible once the application is running. Visit the following URL to view the API documentation:
 
 **http://localhost:4000/api-docs/**
 
@@ -108,7 +108,7 @@ node dist/cli.js
 
 ## Testing
 
-This project uses Jest for unit and integration testing. To run the tests, use the following command:
+This project uses **Jest** for unit and integration testing. To run the tests, use the following command:
 
 ```bash
 npm run test
