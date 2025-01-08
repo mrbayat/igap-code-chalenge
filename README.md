@@ -36,19 +36,20 @@ Ensure you have the following installed:
 - API Documentation generated with Swagger.
 - Command-line Interface (CLI) powered by Inquirer for easy interaction.
 
+<hr>
 
 ## Installation
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/mrbayat/igap-code-chalenge
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd igap-code-chalenge
 ```
 
 Install dependencies
@@ -57,6 +58,7 @@ Install dependencies
   npm install
 ```
 
+<hr>
 
 ## Environment Variables
 
@@ -69,6 +71,7 @@ SDD_STORE_TYPE example=json # json | yaml
 
 DB_PATH=database
 ```
+<hr>
 
 ## Running the Project
 After installation and configuration, you can run the application:
@@ -80,6 +83,8 @@ npm run dev
 ```
 This command will start the server with hot-reloading on http://localhost:4000.
 
+<hr>
+
 ## API Documentation
 
 The API documentation is generated using Swagger and is accessible once the application is running. Visit the following URL to view the API documentation:
@@ -87,6 +92,8 @@ The API documentation is generated using Swagger and is accessible once the appl
 **http://localhost:4000/api-docs/**
 
 The documentation is automatically updated whenever you modify or add new API routes.
+
+<hr>
 
 ## Commands
 
@@ -97,6 +104,7 @@ npm run build:dev
 
 node dist/cli.js 
 ```
+<hr>
 
 ## Testing
 
@@ -105,6 +113,7 @@ This project uses Jest for unit and integration testing. To run the tests, use t
 ```bash
 npm run test
 ```
+<hr>
 
 ## Folder Structure
 
@@ -125,6 +134,7 @@ The project follows Onion Architecture, and the folder structure is designed to 
     
 
 ```
+<hr>
 
 ## 🚀 About Me
 I'm a full stack developer...
