@@ -123,7 +123,6 @@ The project follows **Onion Architecture**, and the folder structure is designed
 
 ```sh
 └── project/
-    ├── database # The storage location of database tables.
     ├── src
     │   ├── 00.framework # This folder is related to the frameworks and tools that the application depends on.
     │   ├── 01.core # This layer is the core or "Domain Layer" of the application, where the business logic resides
