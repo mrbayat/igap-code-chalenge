@@ -50,6 +50,7 @@ Go to the project directory
 
 ```bash
   cd igap-code-chalenge
+  
   mkdir database
 ```
 
